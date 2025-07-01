@@ -1,0 +1,11 @@
+id,titre,description,service,date
+1,Panne serveur,Serveur principal HS,Informatique,2022-01-15
+2,Fuite d'eau,Tuyauterie percée,Maintenance,2023-03-22
+3,Incident réseau,Coupure internet,Informatique,2022-06-10
+4,Défaillance machine,Arrêt de la ligne de production,Production,2023-01-05
+5,Bug logiciel,Problème de connexion à l'app,Informatique,2023-05-18
+6,Incendie,Petit départ de feu,Maintenance,2021-11-03
+7,Surcharge électrique,Alimentation instable,Énergie,2022-09-28
+8,Mise à jour ratée,Erreur dans la version déployée,Informatique,2023-07-01
+9,Porte bloquée,Porte automatique défectueuse,Sécurité,2022-12-11
+10,Bruit anormal,Vibrations suspectes,Production,2021-04-20
